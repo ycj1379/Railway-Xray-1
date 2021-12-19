@@ -8,7 +8,7 @@
             "value": "如出现错误，请检查参数格式或多尝试几次。使用自定义参数请务必先充分理解其含义"
         },
         "AUUID": {
-            "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
+            "description": "UUID充当各个配置的路径和账 号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
             "value": "849e3ff8-5aef-411c-a136-aab861332c0c"
         },
         "CADDYIndexPage": {
